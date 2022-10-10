@@ -1,0 +1,2 @@
+# easy-stable-diffusion
+:)
